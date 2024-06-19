@@ -1,5 +1,5 @@
 function jellyfish(color)
-  color = color or "desert"
+  color = color or "gruber-darker"
 
   vim.cmd.colorscheme(color)
 

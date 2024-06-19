@@ -1,6 +1,6 @@
 require("core.keymaps")
-require("core.colors")
 require("core.lazy")
+require("core.colors")
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
